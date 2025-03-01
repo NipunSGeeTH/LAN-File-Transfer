@@ -2,7 +2,7 @@
 
 <h1>Share Files Effortlessly on Your Network</h1>
 
-<p>This easy-to-use server, powered by Python Flask, lets you share files between devices on the same network, like your home Wi-Fi. No internet connection is needed!</p>
+<p>This easy-to-use server, powered by Python Flask, lets you share files between devices on the same network, like your home Wi-Fi. No internet connection is needed!. Local Network Files Sharing Through Browser with any devices.</p>
 
 <h3 align="center">See It in Action</h3>
 <p align="center">
